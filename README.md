@@ -22,6 +22,7 @@ The calculator provides the following features:
 - **JavaScript** – For BMI calculation logic and interactivity
 
 ## 📁 Project Structure
+'''bash
 /bmi-calculator
 ├── index.html           # Main HTML file containing the form structure
 ├── style.css            # CSS file for styling the form and layout
