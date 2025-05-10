@@ -21,14 +21,6 @@ The calculator provides the following features:
 - **CSS** – Styling and layout to ensure a neat presentation
 - **JavaScript** – For BMI calculation logic and interactivity
 
-## 📁 Project Structure
-'''bash
-/bmi-calculator
-├── index.html           # Main HTML file containing the form structure
-├── style.css            # CSS file for styling the form and layout
-├── script.js            # JavaScript for BMI calculation and dynamic updates
-└── README.md            # Project README file
-
 ## 🧑‍💻 Installation
 1. Clone the repository or download the files.
 2. Open the `index.html` file in your browser to run the calculator.
